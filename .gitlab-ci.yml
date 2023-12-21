@@ -18,7 +18,7 @@ test:
   artifacts:
     expire_in: 4 weeks
     paths:
-      - target/site/
+      - target/surefire-reports/
     when: always
   timeout: 1h
 #  only:
