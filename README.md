@@ -110,10 +110,10 @@ This will also clean the existing build and will generate the complete reports i
 ## GitLab URLs
 
 Project main url:
-* **[XM-SWAPI-Restassured-Java](https://gitlab.com/excalidor/)**
+* **[XM-SWAPI-Java-Restassured](https://gitlab.com/excalidor/xm-swapi-java-restassured)**
 
 Pipelines in GitLab CI/CD:
-* **[pipelines](https://gitlab.com/excalidor/.../-/pipelines)**
+* **[XM-SWAPI-Java-Restassured pipelines](https://gitlab.com/excalidor/xm-swapi-java-restassured/-/pipelines)**
 
 ## How to run this project
 Prerequisites (for **Windows machines**):
@@ -143,7 +143,7 @@ Prerequisites (for **Windows machines**):
 - If such message is not displayed, then most probably the Maven bin folder was not added to the PATH variable correctly or the computer was not restarted to make the changes operational. 
 - Clone the repository from GitLab in a local folder:
 ```
-> git clone https://gitlab.com/excalidor/t....git 
+> git clone https://gitlab.com/excalidor/xm-swapi-java-restassured.git 
 ```
 - After successfully cloning the repository, the project can be run from command line prompt opened in the root folder of the project.
 
