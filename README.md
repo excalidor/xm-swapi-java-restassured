@@ -107,13 +107,16 @@ This will also clean the existing build and will generate the complete reports i
 
 ![img.png](img.png)4.Create contract (Json schema validation) test for /people API.
 
-## GitLab URLs
+## GitLab and Github URLs
 
 Project main url:
 * **[XM-SWAPI-Java-Restassured](https://gitlab.com/excalidor/xm-swapi-java-restassured)**
 
 Pipelines in GitLab CI/CD:
 * **[XM-SWAPI-Java-Restassured pipelines](https://gitlab.com/excalidor/xm-swapi-java-restassured/-/pipelines)**
+
+Github URL:
+* **[XM-SWAPI-Java-Restassured on Github](https://github.com/excalidor/xm-swapi-java-restassured)**
 
 ## How to run this project
 Prerequisites (for **Windows machines**):
@@ -144,6 +147,8 @@ Prerequisites (for **Windows machines**):
 - Clone the repository from GitLab in a local folder:
 ```
 > git clone  https://gitlab.com/excalidor/xm-swapi-java-restassured.git 
+or
+> git clone  https://github.com/excalidor/xm-swapi-java-restassured.git
 ```
 - After successfully cloning the repository, the project can be run from command line prompt opened in the root folder of the project.
 
